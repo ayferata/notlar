@@ -31,4 +31,6 @@ public class day1 {
         System.out.println("Ortalamanız= " + sonuc);
        
        }
+   }
+
 }
