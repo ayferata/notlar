@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class day1 {
     public static void main(String[] args) {
+    
         Scanner input = new Scanner(System.in);
         int fizik,matematik,turkce,kimya,muzik,tarih;
 
