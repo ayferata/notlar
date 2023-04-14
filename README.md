@@ -29,5 +29,4 @@ public class day1 {
 
         double sonuc = (fizik + matematik + turkce + kimya + muzik + tarih) / 6;
         System.out.println("Ortalamanız= " + sonuc);
-       
-       }
+  
